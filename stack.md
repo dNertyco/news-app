@@ -5,3 +5,5 @@ Back
 Postgres
 NGINX
 Node.js+Nest.JS
+
+NewsAPI
